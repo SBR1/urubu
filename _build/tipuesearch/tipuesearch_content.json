@@ -1,0 +1,124 @@
+{
+    "pages": [
+        {
+            "tags": "", 
+            "text": "", 
+            "title": "partnership SBR", 
+            "url": "/index.html"
+        }, 
+        {
+            "tags": "", 
+            "text": "Sites and people you might want to check out as well. Why? Because we did. Websites Budgerigar genetics : a site dedicated to genetics applied to budgerigars. Fallow budgies : a site dedicated to the beautiful fallow budgerigar variety. Exhibition Budgerigar Forum (EBF) - Bert on the EBF Belgische Grasparkieten Club vzw (BGC) Deutsche Standard-Wellensittich-Züchter-Vereinigung e. V. (DSV) Breeders we have visited or obtained birds from JMS75 partnership JMS (Mario Schiebahn) BM007 Mathieu Bily J001 Jan Marynissen D3481 William Dierickx BV18 partnership Buggenhout DSV 1556 Joachim Ullrich Lou Tops OWV 117 Harald Lindtner BI122 Bert Sempels GA25 André Goossens HH731 HW731 partnership Heylen-Waerzeggers FS2 Frank Silva", 
+            "title": "See also", 
+            "url": "/seealso.html"
+        }, 
+        {
+            "tags": "", 
+            "text": "The SBR partnership is the budgerigar breeding partnership of Stefaan Buggenhout and Bert Raeymaekers . Contact Exhibition status We started the partnership when Stefaan promoted to novice in the season 2014/2015. In the first year of the partnership we promoted from novice to intermediate . Band codes Belgische Grasparkieten Club vzw (BGC) SBR1 Partnership SBR BR23 Bert SB12 Stefaan Deutsche Standard-Wellensittich-Züchter-Vereinigung e. V. (DSV) DSV 2629 Bert Algemene Ornithologische Bond Van België (AOB) LZ023 Bert", 
+            "title": "Partnership SBR", 
+            "url": "/start.html"
+        }, 
+        {
+            "tags": "", 
+            "text": "Trophies Here is the link to all the show result: Show results . Show season 2015 Partnership SBR : promotion to Intermediate. Stefaan : Best Ino BGC Vlaanderen Open Baby Show. Show season 2014 Stefaan : promotion to Novice. Bert : Best Beginner of the BGC Brabant & Limburg League. Stefaan : Second Best Beginner of the BGC Brabant & Limburg League. Stefaan : Best Beginner Before the Moult at the BGC Vlaanderen 2014 Open Baby Show. Bert : Best Baby Before the Moult Beginners at the BGC Brabant & Limburg Firt Mini Baby Show. Show season 2012 Bert : Best Any Age Cock Beginners at the Belgische Grasparkieten Club vzw (BGC) Open National Budgerigar Championship Belgium. Show season 2011 Bert : Best Young Cock Beginners at the BGC Brabant & Limburg Open Budgerigar Show.", 
+            "title": "Throphy room", 
+            "url": "/throphies.html"
+        }, 
+        {
+            "tags": "", 
+            "text": "Navbar The navbar at the top is defined by the content variable of the top-level index.md file.  Its value is a list of reference ids of pages, folders and\nexternal links. The number of items at the right side of the navbar is defined by the navbar_right_items variable. Pages Each Markdown file with extension .md corresponds to a page on\nthe website. In the YAML frontmatter, you define the title and the\nlayout of a page. The default page layout has a sidebar. \nIf you don't need a sidebar, use the simple_page layout. You can add a pager setting the pager variable to true . Folders A folder is a collection of pages. It is implemented as a subdirectory with\ncontent files. The content of a folder is defined in its index.md file.  One option is to\nlist the content explicitly. As an example, see Manual demo .  Another option is to\nspecify the content ordering. For example, for a blog you would set the order variable to date , and the reverse variable to true , as in Blog demo . A link to a folder refers to its index.html page. In the navbar, you can\nimplement it as a dropdown menu instead, by setting the dropdown variable to true in the index.md file. See the demo folder and the Demo menu item. External links You can define reference ids for external links in the reflinks variable in _site.yml .", 
+            "title": "Organize", 
+            "url": "/organize.html"
+        }, 
+        {
+            "tags": "", 
+            "text": "Exhibition Budgerigar Breeder Bert Raeymaekers . Below are a few of birds from different colour that I bred over the years. Favourite colours Violet A visual violet is for a lot of people one of the brightest en best colours you can get on a budgerigar. I can only agree. The violet factor is present in a few main birds but mostly not visually. Cinnamon I do like a nice cinnamon, especially with a dark factor added to it to counter act the paler body colour. Cinnamon is ubiquitous in the main line. Even in my entire stud you need to look hard for a bird that doesn't carry the cinnamon factor. German Fallow Preferable in violet or another dark factor. I do like the colour gradient that is typical for the fallow. They are not yet up to a decent quality: a challenge. By accident I discovered fallow hiding in a few of my birds as splits. I've kept breeding with the splits to normals so fallow kept under the covers until I revived it in 2012. I will develop a colour line: CL/FAL. More on fallows on Fallow budgies . Danish pied (aka Recessive pied) When it comes to pieds the Danish pied is by far my favourite. Danish pied was hiding in my stud from the start due to the original VAYF hen from partnership Heylen-Waerzeggers . From 2012 I've started to develop them slowly. Other colours in the stud Normal light green Though perhaps not a colour in the 'mutation' sense of the word.\nI do like a good normal light green.\nWe see far too few good light greens on the show. In the stud I haven't bred that many normal light greens. Blue I do like a good normal blue, just like I like a good normal green. Blue is present in a high percentage in the main line, though mostly combined with other colours like grey. Australian yellowface (aka goldenface) I'm not a fan of this yellow face variety. The double factor can be attractive though. I do have a few Australian Yellow Face in my stud.\nIt all comes from that one 2008 pair of a yellow face opaline cock from Frank Silva and a violet yellow face opaline cinnamon hen from partnership Heylen-Waerzeggers . Opaline I'm not a big fan of opaline. Perhaps because opalines tend to be more flecked.\nA clean real opaline could possibly be a nice bird. Opaline is present in a high percentage in the main line.\nIt will probably diminish as I'm trying to control flecking.\nBut with possibly my best bird being opaline cinnamon it will stick around for a while. Spangle I find a good marked spangle a beauty to the eye. Spangle and I just didn't seem to mix until I bred very well with an outcross double factor white spangle.\nLater another spangle outcross was added with good results but I've never aimed at breeding spangles.\nNow that Stefaan specialises in them lots of my spangles have gone his way. Ino Getting rid of all the undulating marks could be seen as denying the budgerigar, but I do like a few buttercup yellow red-eyes. Though I had the odd ino there is to my knowledge nothing left in my stud. Stefaan specialises in them so he got what was left of my ino's. Australian pied (a dominant pied) I can't really see the attractiveness of the Australian pied. Due to a grey cinnamon pied WDGPC from William Dierickx this pied variety has crept in my stud.\nThough I only have the odd one in the breeding cage. Grey factor When I first started with budgerigars as a boy, I prefered the greys. Now I feel the greys and grey greens are rather a dull colour. With the addition of several grey factor carrying birds into my stud, there is now too much grey. Band codes BR23 - Belgische Grasparkieten Club vzw (BGC) DSV 2629 - Deutsche Standard-Wellensittich-Züchter-Vereinigung e. V. (DSV) LZ023 - Algemene Ornithologische Bond Van België (AOB)", 
+            "title": "Bert", 
+            "url": "/bert.html"
+        }, 
+        {
+            "tags": "", 
+            "text": "", 
+            "title": "Search", 
+            "url": "/search.html"
+        }, 
+        {
+            "tags": "", 
+            "text": "Exhibition Budgerigar Breeder Stefaan  Buggenhout . Favourite colours Ino Lutino Image to follow. Albino Image to follow. Spangle Single Factor Spangles Image to follow. Double Factor Spangles Image to follow. Band codes SB12 - Belgische Grasparkieten Club vzw (BGC)", 
+            "title": "Stefaan", 
+            "url": "/stefaan.html"
+        }, 
+        {
+            "tags": "", 
+            "text": "Below you'll find the most relevant show result of the SBR partnership. Here are links to more results: 2015 First show season as partnership. 2014 Stefaan 2014 Bert 2013 Bert 2012 Bert Section : Novice Open National Budgerigar Championship Belgium Organiser : Belgische Grasparkieten Club vzw (BGC) Date : August 29, 2015 Group wins Group 5 : Best opposite young ino Stefaan Group 6 : Best opposite young spangle Stefaan Group 12 : Best young pair Bert Group 32 : Best old pair Stefaan Class placings Class 1: Young light & dark green cock 5 entries 5th Stefaan Class 2: Young grey green cock 4 entries 3rd Bert 4th Stefaan Class 4: Young grey cock 6 entries 4th Bert Class 104: Young grey hen (incl. yellow face) 3 entries 3rd Bert Class 105: Young opaline hen 1 entry Class win Stefaan Class 106: Young opaline cinnamon hen 2 entries 2nd Stefaan Class 8: Young blue series cinnamon cock 7 entries 3rd Bert Class 108: Young blue series cinnamon hen 11 entries 7th Bert Class 109: Young ino hen 9 entries Class win Stefaan 3rd Stefaan 5th Stefaan 6th Stefaan Class 10: Young green series spangle cock 1 entry Class win Bert Class 11: Young blue series spangle cock 3 entries Class win Stefaan Class 111: Young blue series spangle hen 1 entry Class win Stefaan Class 112: Young DF spangle hen 2 entries 2nd Stefaan Class 14: Young dominant pied cock 14 entries 2nd Bert 3rd Bert Class 115: Young violet/mauve/olive hen 2 entries 2nd Bert Class 40: Young pair 5 entries Class win Bert 4th Stefaan Class 202: Old grey green cock 2 entries 2nd Bert Class 302: Old grey green hen 1 entry Class win Bert Class 308: Old blue series cinnamon hen 5 entries 4th Bert Class 212: Old DF spangle cock 1 entry Class win Stefaan Class 221: Old cock, other colours 4 entries Class win fallow Bert 2nd fallow Bert 3rd fallow Bert 4th fallow Bert Class 321: Old hen, other colours 1 entry Class win fallow Bert Class 240: Old pair 2 entries Class win Stefaan 2nd Bert Class 250: Old team 2 entries 2nd: Partnership SBR", 
+            "title": "Show results", 
+            "url": "/show/index.html"
+        }, 
+        {
+            "tags": "", 
+            "text": "The 2015 show result of the SBR partnership. Section : Novice Open Belgian Championship Organiser : Belgische Grasparkieten Club vzw (BGC) Date : August 29, 2015 Group wins Group 5 : Best opposite young ino Stefaan Group 6 : Best opposite young spangle Stefaan Group 12 : Best young pair Bert Group 32 : Best old pair Stefaan Class placings Class 1: Young light & dark green cock 5 entries 5th Stefaan Class 2: Young grey green cock 4 entries 3rd Bert 4th Stefaan Class 4: Young grey cock 6 entries 4th Bert Class 104: Young grey hen (incl. yellow face) 3 entries 3rd Bert Class 105: Young opaline hen 1 entry Class win Stefaan Class 106: Young opaline cinnamon hen 2 entries 2nd Stefaan Class 8: Young blue series cinnamon cock 7 entries 3rd Bert Class 108: Young blue series cinnamon hen 11 entries 7th Bert Class 109: Young ino hen 9 entries Class win Stefaan 3rd Stefaan 5th Stefaan 6th Stefaan Class 10: Young green series spangle cock 1 entry Class win Bert Class 11: Young blue series spangle cock 3 entries Class win Stefaan Class 111: Young blue series spangle hen 1 entry Class win Stefaan Class 112: Young DF spangle hen 2 entries 2nd Stefaan Class 14: Young dominant pied cock 14 entries 2nd Bert 3rd Bert Class 115: Young violet/mauve/olive hen 2 entries 2nd Bert Class 40: Young pair 5 entries Class win Bert 4th Stefaan Class 202: Old grey green cock 2 entries 2nd Bert Class 302: Old grey green hen 1 entry Class win Bert Class 308: Old blue series cinnamon hen 5 entries 4th Bert Class 212: Old DF spangle cock 1 entry Class win Stefaan Class 221: Old cock, other colours 4 entries Class win fallow Bert 2nd fallow Bert 3rd fallow Bert 4th fallow Bert Class 321: Old hen, other colours 1 entry Class win fallow Bert Class 240: Old pair 2 entries Class win Stefaan 2nd Bert Class 250: Old team 2 entries 2nd: Partnership SBR", 
+            "title": "2015 show results", 
+            "url": "/show/2015.html"
+        }, 
+        {
+            "tags": "", 
+            "text": "", 
+            "title": "Gallery", 
+            "url": "/gallery/index.html"
+        }, 
+        {
+            "tags": "", 
+            "text": "The 2016 gallery. TODO", 
+            "title": 2016, 
+            "url": "/gallery/2016.html"
+        }, 
+        {
+            "tags": "", 
+            "text": "The 2015 gallery. TODO", 
+            "title": 2015, 
+            "url": "/gallery/2015.html"
+        }, 
+        {
+            "tags": "", 
+            "text": "Latest post 15-May-2014", 
+            "title": "Blog demo", 
+            "url": "/blog/index.html"
+        }, 
+        {
+            "tags": "", 
+            "text": "", 
+            "title": "Latest post", 
+            "url": "/blog/latest_post.html"
+        }, 
+        {
+            "tags": "", 
+            "text": "", 
+            "title": "Oldest post", 
+            "url": "/blog/oldest_post.html"
+        }, 
+        {
+            "tags": "", 
+            "text": "Introduction First Chapter Second Chapter", 
+            "title": "Manual demo", 
+            "url": "/manual/index.html"
+        }, 
+        {
+            "tags": "", 
+            "text": "First section Second Section", 
+            "title": "Second Chapter", 
+            "url": "/manual/chapter_2.html"
+        }, 
+        {
+            "tags": "", 
+            "text": "First section Second Section", 
+            "title": "First Chapter", 
+            "url": "/manual/chapter_1.html"
+        }, 
+        {
+            "tags": "", 
+            "text": "First paragraph. Second paragraph.", 
+            "title": "Introduction", 
+            "url": "/manual/intro.html"
+        }
+    ]
+}

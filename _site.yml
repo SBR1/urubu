@@ -1,0 +1,33 @@
+brand: SBR1
+
+bootswatch: null # flatly, yeti, lumen,... 
+navbar_inverse: false 
+bootstrap: 3.3.5
+navbar_right_items: 1
+
+reflinks:
+    sbr:
+        url: http://sbr.schilduil.org/
+        title: Partnership SBR
+    genetics:
+        url: http://genetics.schilduil.org/
+        title: Genetics for Budgerigars
+    fallowbudgies:
+        url: http://fallowbudgies.schilduil.org/
+        title: Fallow budgies
+    bgc:
+        url: http://www.grasparkiet-bgc.be/
+        title: Belgische Grasparkieten Club vzw (BGC)
+    dsv:
+        url: http://www.dsv-ev.de/
+        title: Deutsche Standard-Wellensittich-Züchter-Vereinigung e. V. (DSV)
+    aob:
+        url: http://www.aobbel.be/
+        title: Algemene Ornithologische Bond Van België (AOB)
+    harald lindtner:
+        url: http://www.wellensittichzucht.at/
+        title: Harald Lindtner
+    partnership heylen:
+        url: http://www.hh731.be/
+        title: partnership Heylen-Waerzeggers
+
