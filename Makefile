@@ -10,10 +10,10 @@ serve:
 	python -m urubu serve
 
 download:
-	git subtree pull --prefix _build origin master
+	cd _build; git pull origin master; cd ..
 
 publish:
-	git subtree push --prefix _build origin master
+	cd _build; git push origin master; cd ..
 
 push:
 	git push -u urubu master
