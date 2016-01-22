@@ -10,10 +10,10 @@ serve:
 	python -m urubu serve
 
 download:
-	cd _build; git pull origin master; cd ..
+	cd .build; git pull origin master; cd ..
 
 publish:
-	cd _build; git push origin master; cd ..
+	cd .build; rm -R *; cp -R ../_build/* ./; git push origin master; cd ..
 
 push:
 	git push -u urubu master
