@@ -19,7 +19,7 @@ Here is the link to all the show result: [show].
 * [Bert]: Best Beginner of the BGC Brabant & Limburg League.
 * [Stefaan]: Second Best Beginner of the BGC Brabant & Limburg League.
 * [Stefaan]: Best Beginner Before the Moult at the BGC Vlaanderen 2014 Open Baby Show.
-* [Bert]: Best Baby Before the Moult Beginners at the BGC Brabant & Limburg Firt Mini Baby Show.
+* [Bert]: Best Baby Before the Moult Beginners at the BGC Brabant & Limburg First Mini Baby Show.
 
 ## Show season 2012
 

@@ -1,6 +1,11 @@
 GH-PAGES = ${HOME}/dev/urubu-gh-pages/
 
 all: download pull build push publish
+sync: download pull status
+publish: build push publish
+
+status:
+	git status
 
 build:
 	python -m urubu build
@@ -12,7 +17,7 @@ serve:
 download:
 	cd .build; git pull origin master; cd ..
 
-publish:
+upload:
 	cd .build; rm -R *; cp -R ../_build/* ./; git push origin master; cd ..
 
 push:
