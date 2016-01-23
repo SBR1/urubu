@@ -1,8 +1,11 @@
 GH-PAGES = ${HOME}/dev/urubu-gh-pages/
 
-all: download pull build push publish
+all: download pull build commit push publish
 sync: download pull status
-publish: build push publish
+publish: build push upload
+
+commit:
+	git commit -a
 
 status:
 	git status
