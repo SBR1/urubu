@@ -18,16 +18,8 @@ A visual violet is for a lot of people one of the brightest en best colours you 
 
 The violet factor is present in a few main birds but mostly not visually.
 
-![Australien yellow face cinnamon cock](/img/bert_cinnamon.jpeg){:style="float: right;margin-right: 7px;margin-top: 7px;"}
-## Cinnamon
-
-I do like a nice cinnamon, especially with a dark factor added to it to counter act the paler body colour.
-
-Cinnamon is ubiquitous in the main line. Even in my entire stud you need to look hard for a bird that doesn't carry the cinnamon factor.
-<br clear="all">
-
-![violet German fallow cock](/img/bert_fallow.jpeg){:style="float: right;margin-right: 7px;margin-top: 7px;"}
-## German Fallow
+## ![violet German fallow cock](/img/bert_fallow.jpeg){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+German Fallow
 
 Preferable in violet or another dark factor.
 
@@ -38,8 +30,16 @@ By accident I discovered fallow hiding in a few of my birds as splits. I've kept
 More on fallows on [fallowbudgies].
 <br clear="all">
 
-![grey Danish pied cock](/img/bert_pied.jpeg){:style="float: left;margin-right: 7px;margin-top: 7px;"}
-## Danish pied (aka Recessive pied)
+## ![Australien yellow face cinnamon cock](/img/bert_cinnamon.jpeg){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+Cinnamon
+
+I do like a nice cinnamon, especially with a dark factor added to it to counter act the paler body colour.
+
+Cinnamon is ubiquitous in the main line. Even in my entire stud you need to look hard for a bird that doesn't carry the cinnamon factor.
+<br clear="all">
+
+## ![grey Danish pied cock](/img/bert_pied.jpeg){:style="float: left;margin-right: 7px;margin-top: 7px;"}
+Danish pied (aka Recessive pied)
 
 When it comes to pieds the Danish pied is by far my favourite.
 
@@ -49,8 +49,8 @@ From 2012 I've started to develop them slowly.
 
 # Other colours in the stud
 
-![light green cock](/img/bert_normal.jpeg){:style="float: right;margin-right: 7px;margin-top: 7px;"}
-## Normal light green
+## ![light green cock](/img/bert_normal.jpeg){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+Normal light green
 
 Though perhaps not a colour in the 'mutation' sense of the word.
 I do like a good normal light green.
@@ -59,16 +59,16 @@ We see far too few good light greens on the show.
 In the stud I haven't bred that many normal light greens.
 <br clear="all">
 
-![blue cock](/img/bert_blue.jpeg){:style="float: left;margin-right: 7px;margin-top: 7px;"}
-## Blue
+## ![blue cock](/img/bert_blue.jpeg){:style="float: left;margin-right: 7px;margin-top: 7px;"}
+Blue
 
 I do like a good normal blue, just like I like a good normal green.
 
 Blue is present in a high percentage in the main line, though mostly combined with other colours like grey.
 <br clear="all">
 
-![Australien yellow face cinnamon cock](/img/bert_cinnamon.jpeg){:style="float: right;margin-right: 7px;margin-top: 7px;"}
-## Australian yellowface (aka goldenface)
+## ![Australien yellow face cinnamon cock](/img/bert_cinnamon.jpeg){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+Australian yellowface (aka goldenface)
 
 I'm not a fan of this yellow face variety. The double factor can be attractive though.
 
@@ -76,8 +76,8 @@ I do have a few Australian Yellow Face in my stud.
 It all comes from that one 2008 pair of a yellow face opaline cock from Frank Silva and a violet yellow face opaline cinnamon hen from [partnership Heylen].
 <br clear="all">
 
-![sky violet opaline cinnamon cock](/img/bert_opaline.jpeg){:style="float: left;margin-right: 7px;margin-top: 7px;"}
-## Opaline
+## ![sky violet opaline cinnamon cock](/img/bert_opaline.jpeg){:style="float: left;margin-right: 7px;margin-top: 7px;"}
+Opaline
 
 I'm not a big fan of opaline. Perhaps because opalines tend to be more flecked.
 A clean real opaline could possibly be a nice bird.
@@ -87,8 +87,8 @@ It will probably diminish as I'm trying to control flecking.
 But with possibly my best bird being opaline cinnamon it will stick around for a while.
 <br clear="all">
 
-![sky blue spangle cinnamon baby hen](/img/bert_spangle.jpeg){:style="float: right;margin-right: 7px;margin-top: 7px;"}
-## Spangle
+## ![sky blue spangle cinnamon baby hen](/img/bert_spangle.jpeg){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+Spangle
 
 I find a good marked spangle a beauty to the eye.
 
@@ -97,8 +97,8 @@ Later another spangle outcross was added with good results but I've never aimed 
 Now that [Stefaan] specialises in them lots of my spangles have gone his way.
 <br clear="all">
 
-![albino baby hen](/img/bert_ino.jpeg){:style="float: left;margin-right: 7px;margin-top: 7px;"}
-## Ino
+## ![albino baby hen](/img/bert_ino.jpeg){:style="float: left;margin-right: 7px;margin-top: 7px;"}
+Ino
 
 Getting rid of all the undulating marks could be seen as denying the budgerigar, but I do like a few buttercup yellow red-eyes.
 
