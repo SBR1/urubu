@@ -21,7 +21,7 @@ download:
 	cd .build; git pull origin master; cd ..
 
 upload:
-	cd .build; rm -R *; cp -R ../_build/* ./; git push origin master; cd ..
+	cd .build; rm -R *; cp -R ../_build/* ./; git commit -a -m "Auto commit."; git push origin master; cd ..
 
 push:
 	git push -u urubu master
