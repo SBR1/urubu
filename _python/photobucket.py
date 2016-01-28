@@ -20,7 +20,7 @@ class PhotobucketPageParser(HTMLParser):
     It will return a chronological (by upload) list of dictionaries with the
     following keys:
         thumbnail: URL where the tumbnail can be downloaded.
-        original: URL to the full size image.
+        direct: URL to the full size image.
         title: title in photobucket, "
         description: description in photobucket.
     """
@@ -102,7 +102,7 @@ def process_album(base_url, sort = None, page = None, images = None):
         images = [] # Need the order, so a list.
     previous_count = len(images)
     if sort == None:
-        sort = sort_types["oldest first"]
+        sort = sort_types["newest first"]
     else:
         sort = int(sort)
     if page == None:
@@ -161,7 +161,15 @@ def process_album(base_url, sort = None, page = None, images = None):
                                             description = iobject[okey]
                                         elif okey == "title":
                                             title = iobject[okey]
-                                    images.append({"thumbnail": thumburl, "original": origurl, "title": title, "description": description})
+                                        elif okey == "linkcodes":
+                                            logging.warn("KEY: %s" % (iobject[okey]))
+                                            if "direct" in iobject[okey]:
+                                                directurl = iobject[okey]["direct"]
+                                    images.append({"thumbnail": thumburl,
+                                                   "direct" : directurl, 
+                                                   "original": origurl, 
+                                                   "title": title, 
+                                                   "description": description})
         finally:
             try:
                 ppp.close()
