@@ -15,7 +15,15 @@ sort_types = {"oldest first": 2, "newest first": 3, "title": 4, "filename": 9}
 
 
 class PhotobucketPageParser(HTMLParser):
-    """Parses a photobucket page to extract token, album info and image info."""
+    """Parses a photobucket page to extract token, album info and image info.
+    
+    It will return a chronological (by upload) list of dictionaries with the
+    following keys:
+        thumbnail: URL where the tumbnail can be downloaded.
+        original: URL to the full size image.
+        title: title in photobucket, "
+        description: description in photobucket.
+    """
 
     def __init__(self):
         super().__init__()
