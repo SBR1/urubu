@@ -11,6 +11,7 @@ status:
 	git status
 
 build:
+	cd _python; ./generateimgmd.py; cd ..
 	python -m urubu build
 	touch _build/.nojekyll
 

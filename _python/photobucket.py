@@ -162,7 +162,6 @@ def process_album(base_url, sort = None, page = None, images = None):
                                         elif okey == "title":
                                             title = iobject[okey]
                                         elif okey == "linkcodes":
-                                            logging.warn("KEY: %s" % (iobject[okey]))
                                             if "direct" in iobject[okey]:
                                                 directurl = iobject[okey]["direct"]
                                     images.append({"thumbnail": thumburl,
