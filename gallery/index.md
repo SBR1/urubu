@@ -3,8 +3,8 @@ title: Gallery
 layout: page
 dropdown: true
 content:
-    - /gallery/2016
-    - /gallery/2015
+    - 2016/
+    - 2015/
 ---
 
 ![2014 BGC Brabant & Limburg Mini Baby Show - Best Beginner In Show](/img/BBIS_BGCBL_20140307.jpeg)
