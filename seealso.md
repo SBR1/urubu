@@ -1,7 +1,6 @@
 ---
 title: See also
 layout: page
-pager: true
 ---
 
 Sites and people you might want to check out as well.  
@@ -15,6 +14,7 @@ Why? Because we did.
 * [Exhibition Budgerigar Forum (EBF)](http://www.exhibitionbudgerigarforum.co.uk/){:target="_blank"} - [Bert](http://www.exhibitionbudgerigarforum.co.uk/index.php?/user/123-bertraeymaekers/) on the EBF
 * [BGC]{:target="_blank"}
 * [DSV]{:target="_blank"}
+* [BS]{:target="_blank"}
 
 # Breeders we have visited or obtained birds from
 

@@ -11,5 +11,6 @@ content:
 The 2016 gallery.
 {.lead}
 
-TODO
+* [Birds bred in the 2016 season](bred.html).
+* [General breeding season pictures](breeding.html).
 

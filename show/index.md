@@ -1,9 +1,11 @@
 ---
 title: Show results
 layout: page
+pager: true
 dropdown: true
 content:
-    - /show/2015
+    - ./
+    - 2015/
 ---
 <!--
     - /2014_stefaan

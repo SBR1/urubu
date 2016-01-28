@@ -30,6 +30,10 @@ Image to follow.
 
 Image to follow.
 
+## Grey wing
+
+In the 2016 breeding season, from two spangles, a grey wing was born.
+
 # Band codes
 
 * **SB12** - [BGC]{:target="_blank"}
