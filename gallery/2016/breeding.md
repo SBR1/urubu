@@ -1,5 +1,5 @@
 ---
-title: Season 2016
+title: 'Season 2016'
 layout: page
 pager: true
 ---

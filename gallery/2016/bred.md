@@ -1,5 +1,5 @@
 ---
-title: Season 2016 bred
+title: 'Season 2016 bred'
 layout: page
 pager: true
 ---

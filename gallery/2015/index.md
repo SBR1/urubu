@@ -1,5 +1,5 @@
 ---
-title: 2015
+title: '2015'
 layout: page
 pager: true
 content:

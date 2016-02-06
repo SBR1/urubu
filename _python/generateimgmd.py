@@ -11,7 +11,7 @@ import photobucket
 
 
 markdown_header = """---
-title: %s
+title: '%s'
 layout: page
 pager: true
 ---
