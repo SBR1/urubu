@@ -1,5 +1,13 @@
 [
     {
+        "title": "Season 2017",
+        "path": "gallery/2017/breeding",
+        "node": "s205",
+        "username": "schilduil",
+        "album": "Exhibition Budgerigars/Season 2017",
+        "status": "generate"
+    },
+    {
         "title": "Season 2016 bred",
         "path": "gallery/2016/bred",
         "node": "s205",
@@ -13,7 +21,7 @@
         "node": "s205",
         "username": "schilduil",
         "album": "Exhibition Budgerigars/Season 2016",
-        "status": "generate"
+        "status": "keep"
     },
     {
         "title": "Season 2015 bred",
@@ -21,6 +29,6 @@
         "node": "s205",
         "username": "schilduil",
         "album": "Exhibition Budgerigars/Season 2015 bred",
-        "status": "generate"
+        "status": "keep"
     }
 ]
