@@ -29,6 +29,6 @@ Why? Because we did.
 * **OWV 117** [Harald Lindtner]{:target="_blank"} (AU)
 * **BI122** Bert Sempels
 * **GA25** André Goossens
-* **HH731** **HW731** [partnership Heylen]{:target="_blank"}
+* **HH731** **HHW1** [partnership Heylen]{:target="_blank"}
 * **FS2** Frank Silva (UK)
 
