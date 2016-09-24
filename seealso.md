@@ -18,16 +18,17 @@ Why? Because we did.
 
 # Breeders we have visited or obtained birds from
 
+* **DT003** partnership Terpstra-Deelstra (NL)
 * **JMS75** partnership JMS (Mario Schiebahn)
 * **BM007** Mathieu Bily
 * **J001** Jan Marynissen
 * **D3481** William Dierickx
 * **BV18** partnership Buggenhout
-* **DSV 1556** Joachim Ullrich
-* Lou Tops
-* **OWV 117** [Harald Lindtner]{:target="_blank"}
+* **DSV 1556** Joachim Ullrich (DE)
+* Lou Tops (NL)
+* **OWV 117** [Harald Lindtner]{:target="_blank"} (AU)
 * **BI122** Bert Sempels
 * **GA25** André Goossens
 * **HH731** **HW731** [partnership Heylen]{:target="_blank"}
-* **FS2** Frank Silva
+* **FS2** Frank Silva (UK)
 
