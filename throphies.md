@@ -8,6 +8,10 @@ pager: true
 
 Here is the link to all the show result: [show].
 
+## Show season 2016
+
+* [SBR]: Best intermediate of the BGC Brabant & Limburg League.
+
 ## Show season 2015
 
 * [SBR]: promotion to Intermediate.

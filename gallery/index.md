@@ -14,6 +14,8 @@ Pictures, pictures, pictures!
 
 Below you will find some of the cerificates we won over the years. For more pictures, mostly of birds, go to the year specific pages you can find in the menu.
 
+![2016 BGC Brabant & Limburg - Club Championship Intermediate](/img/best_intermediate_BGCBL_2016.png)
+
 ![2014 BGC Brabant & Limburg Mini Baby Show - Best Beginner In Show](/img/BBIS_BGCBL_20140307.jpeg)
 
 ![2011 BGC Open National Budgerigar Championship Belgium - Best Beginner Old Cock In Show](/img/BBOM.jpeg)
