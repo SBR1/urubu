@@ -9,7 +9,7 @@ Why? Because we did.
 
 # Websites
 
-* [Budgerigar genetics](http://genetics.schilduil.org/){:target="_blank"}: a site dedicated to genetics applied to budgerigars.
+* [Budgerigar genetics](http://www.schilduil.org/){:target="_blank"}: a site dedicated to genetics applied to budgerigars.
 * [fallowbudgies]{:target="_blank"}: a site dedicated to the beautiful fallow budgerigar variety.
 * [Exhibition Budgerigar Forum (EBF)](http://www.exhibitionbudgerigarforum.co.uk/){:target="_blank"} - [Bert](http://www.exhibitionbudgerigarforum.co.uk/index.php?/user/123-bertraeymaekers/) on the EBF
 * [BGC]{:target="_blank"}
