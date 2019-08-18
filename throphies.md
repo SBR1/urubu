@@ -10,7 +10,7 @@ Here is the link to all the show result: [show].
 
 ## Show season 2019
 
-* [SBR]: Best Young Cock Intermediate section on the Belgiam Championship.
+* [SBR]: Best Young Cock Intermediate section on the Belgian Championship.
 
 ## Show season 2016
 
