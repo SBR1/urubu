@@ -8,6 +8,10 @@ pager: true
 
 Here is the link to all the show result: [show].
 
+## Show season 2019
+
+* [SBR]: Best Young Cock Intermediate section on the Belgiam Championship.
+
 ## Show season 2016
 
 * [SBR]: Best intermediate of the BGC Brabant & Limburg League.

@@ -10,7 +10,13 @@ commit:
 status:
 	git status
 
+setup:
+	python3 -m venv env
+	source env/bin/activate
+	pip install -r requirements.txt
+
 build:
+	source env/bin/activate
 	cd _python; ./generateimgmd.py; cd ..
 	python -m urubu build
 	touch _build/.nojekyll
@@ -25,8 +31,8 @@ upload:
 	cd .build; rm -R *; cp -R ../_build/* ./; git add .; git commit -a -m "Auto commit."; git push origin master; cd ..
 
 push:
-	git push -u urubu master
+	git push
 
 pull:
-	git pull -u urubu master
+	git pull
 
